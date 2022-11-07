@@ -1,6 +1,6 @@
-# ICS2O-UNIT2-04-CSharp-AREA
+# ICS20-UNIT3-04-CSharp-FAHRENHEIT-TO-CELCIUS
 
-[![Mr Coxall's Super Linter](https://github.com/Alex-Nelson-1/ICS2O-UNIT2-04-CSharp-AREA/workflows/Mr%20Coxall's%20Super%20Linter/badge.svg)](https://github.com/Alex-Nelson-1/ICS2O-UNIT2-04-CSharp-AREA/actions/)
+[![Mr Coxall's Super Linter](https://github.com/Alex-Nelson-1/ICS20-UNIT3-04-CSharp-FAHRENHEIT-TO-CELCIUS/workflows/Mr%20Coxall's%20Super%20Linter/badge.svg)](https://github.com/Alex-Nelson-1/ICS20-UNIT3-04-CSharp-FAHRENHEIT-TO-CELCIUS/actions/)
 
-[![Run on Repl.it](https://repl.it/badge/github/Alex-Nelson-1/ICS2O-UNIT2-04-CSharp-AREA)](https://repl.it/github/Alex-Nelson-1/ICS2O-UNIT2-04-CSharp-AREA)
+[![Run on Repl.it](https://repl.it/badge/github/Alex-Nelson-1/ICS20-UNIT3-04-CSharp-FAHRENHEIT-TO-CELCIUS)](https://repl.it/github/Alex-Nelson-1/ICS20-UNIT3-04-CSharp-FAHRENHEIT-TO-CELCIUS)
 
